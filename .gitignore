@@ -1,0 +1,13 @@
+# SQLite database files
+*.sqlite
+*.sqlite3
+*.db
+
+# DBeaver / IDE files
+.metadata/
+.dbeaver/
+.project
+*.log
+
+# OS files
+.DS_Store
